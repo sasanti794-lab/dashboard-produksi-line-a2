@@ -1,0 +1,5 @@
+{
+  "name": "Line A2 Production Dashboard",
+  "description": "Dashboard monitoring parameter proses produksi dan analisis kerusakan alat pada Line A2.",
+  "requestFramePermissions": []
+}
